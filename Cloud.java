@@ -32,11 +32,3 @@ public class Cloud implements Drawble {
         }
     }
 }
-
-
-        /*g.setColor(c);
-
-        g.fillOval(x, y, w, h);
-        g.fillOval(x+50, y, w, h);
-        g.fillOval(x+23, y-15, w, h);
-        g.fillOval(x+20, y+20, w, h);*/
